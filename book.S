@@ -29,7 +29,7 @@ White
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kiprensky_Pushkin.jpg/270px-Kiprensky_Pushkin.jpg" width="500px" height="500px"/>
 
 
-1
+
 
 
 
