@@ -14,7 +14,8 @@ White
 <h1 style=";text-align:center"><font color="White"> <p>История Александра сергеевича Пушкина</p></font>
 </h1>
 
-<h2> <header> </header> </h2>
+<h2> <header> 
+</header> </h2>
 
 
 <h4><p></p></h4>
